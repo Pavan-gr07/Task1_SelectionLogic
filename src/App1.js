@@ -5,6 +5,7 @@ import './App.css';
 function App1() {
     const [ischecked, setisChecked] = useState([]);
     const [allselect,setAllselect] = useState(false);
+    // jgffgkjvjgh
 
     const handlerClick = (e,id) => {
         let check = e.target.checked;
